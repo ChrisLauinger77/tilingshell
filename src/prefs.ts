@@ -961,7 +961,7 @@ export default class TilingShellExtensionPreferences extends ExtensionPreference
                     _('Cancel'),
                     new Gtk.FileFilter({
                         suffixes: ['txt'],
-                        name: 'Text file',
+                        name: _('Text file'),
                     }),
                     (_source: Gtk.FileChooserNative, response_id: number) => {
                         try {
