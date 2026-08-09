@@ -56,7 +56,7 @@ msgstr "Editieren starten"
 
 #: dist/components/window_menu/overriddenWindowMenu.js:117
 msgid "Move to best tile"
-msgstr "Zur besten Kachel wechseln"
+msgstr "Fenster zur besten Kachel verschieben"
 
 #: dist/components/window_menu/overriddenWindowMenu.js:137
 msgid "Move to leftmost tile"
@@ -178,7 +178,7 @@ msgstr "Intelligenter Rahmenradius"
 
 #: dist/prefs.js:133
 msgid "Dynamically adapt to the window's actual border radius"
-msgstr "Sich dynamisch an den tatsächlichen Randradius des Fensters anpassen"
+msgstr "Rahmenradius dynamisch an den tatsächlichen Fensterrahmenradius anpassen."
 
 #: dist/prefs.js:139
 msgid "Width"
@@ -240,15 +240,15 @@ msgstr ""
 
 #: dist/prefs.js:201
 msgid "Sync layout when tiling with Snap Assistant"
-msgstr "Layout beim Anordnen mit Snap Assistant synchronisieren"
+msgstr "Layout beim Kacheln mit Snap-Assistent synchronisieren"
 
 #: dist/prefs.js:203
 msgid ""
 "Change the active layout to match the layout used when tiling a window with "
 "Snap Assistant"
 msgstr ""
-"Ändere das aktive Layout so, dass es dem Layout entspricht, das beim "
-"Anordnen eines Fensters mit dem Snap-Assistenten verwendet wird"
+"Ändern Sie das aktive Layout so, dass es dem Layout entspricht, das beim "
+"Kacheln eines Fensters mit dem Snap-Assistenten verwendet wird."
 
 #: dist/prefs.js:214
 msgid "Enable Tiling System"
@@ -336,15 +336,15 @@ msgstr ""
 
 #: dist/prefs.js:281
 msgid "Raise tiled windows together"
-msgstr "Fenster mit Kacheln gemeinsam anheben"
+msgstr "Kachelfenster gemeinsam anheben"
 
 #: dist/prefs.js:283
 msgid ""
 "When one tiled window is raised, raise all tiled windows into the foreground "
 "together"
 msgstr ""
-"Wenn ein gekacheltes Fenster in den Vordergrund geholt wird, sollen alle "
-"gekachelten Fenster gemeinsam in den Vordergrund geholt werden"
+"Wenn ein gekacheltes Fenster in den Vordergrund gebracht wird, werden alle "
+"gekachelten Fenster gemeinsam in den Vordergrund gebracht."
 
 #: dist/prefs.js:288
 msgid "Screen Edges"
@@ -731,7 +731,7 @@ msgstr "Neuen Issue öffnen auf"
 msgid "Choose how windows snap to screen edges"
 msgstr ""
 "Wählen Sie aus, wie Fenster an den Bildschirmrändern ausgerichtet werden "
-"sollen"
+"sollen."
 
 #: dist/prefs.js:1014
 msgid "Default"
@@ -747,16 +747,15 @@ msgstr "Adaptiv"
 
 #: dist/prefs.js:1021
 msgid "Follow corners of selected layout or screen halves"
-msgstr ""
-"Ecken des ausgewählten Layouts oder der Bildschirmhälften nachverfolgen"
+msgstr "Ecken des ausgewählten Layouts oder der Bildschirmhälften verfolgen"
 
 #: dist/prefs.js:1026
 msgid "Granular"
-msgstr "Körnig"
+msgstr "Granular"
 
 #: dist/prefs.js:1027
 msgid "Follow currently selected layout"
-msgstr "Aktuell ausgewähltes Layout beibehalten"
+msgstr "Aktuell ausgewähltes Layout übernehmen"
 
 #: dist/prefs.js:1216
 msgid "Choose custom color"
